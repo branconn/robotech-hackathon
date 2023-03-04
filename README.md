@@ -8,19 +8,19 @@ Students will participate in one or more of the competition tracks: Design, Robo
 
 ## Criteria
 
-### Design
+#### Design
 
-| Category | Highest Score - 5 | Highest Score - 1 | Weight |
+| Category | Highest Score - 5 | Lowest Score - 1 | Weight |
 | -------- | --------------- | ---------------| ------------ |
 | Theme Alignment | Project is primarily concerned with improving physical and/or mental health. | Project is unrelated to improving physical and/or mental health. | 40% |
 | Ingenuity | Highly innovative concept or key principles unheard of before | Already exist and/or very little innovation | 15% |
 | Execution | Presentation materials paint a complete picture of the product, anticipates questions, and give background to uninitiated viewers. | Presentation materials are incomplete. | 15% |
 | Feasibility | Final concept presents a simple and clear possible implementation, guarantees quick adoption by users, pays for itself, or makes a strong business use-case. | Final concept is technically or economically unfeasible (e.g. incompatible with current technologies including hardware, software etc.) | 15% |
-| Impact | Highly disruptive project offering a unique solution in terms of improving health. | Attempted project was unambitious and has little impact on improving health. | 15%
+| Impact | Highly disruptive project offering a unique solution in terms of improving health. | Attempted project was unambitious and has little impact on improving health. | 15% |
 
-### Body, Circuitry, and Software
+#### Body, Circuitry, and Software
 
-| Category | Highest Score - 5 | Highest Score - 1 | Weight |
+| Category | Highest Score - 5 | Lowest Score - 1 | Weight |
 | -------- | --------------- | ---------------| ------------ |
 | Theme Alignment | Project is primarily concerned with improving physical and/or mental health. | Project is unrelated to improving physical and/or mental health. | 40% |
 | Ingenuity | Highly innovative concept or key principles unheard of before | Already exist and/or very little innovation | 15% |
